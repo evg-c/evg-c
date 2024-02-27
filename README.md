@@ -11,3 +11,7 @@
 3. [Валидатор данных](https://github.com/evg-c/java-project-78) - библиотека для валидации данных (строк, чисел, словарей Map) с возможностью настройки схем валидации данных. Схема представляет собой объект, который содержит правила и ограничения для данных. Настройка схемы валидации может быть произведена при помощи различных методов, которые предоставляет схема. Разные типы данных проверяются при помощи своих схем. 
 
 
+<div id="socials" align="center">
+<a href="[telegram-url](https://t.me/e_chup)"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
+badge& logo=telegram&logoColor=white" alt="Telegram"/> </a>
+</div>
