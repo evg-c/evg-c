@@ -11,6 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="Gradle" alt="Gradle" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-line-wordmark.svg" title="JUnit" alt="JUnit" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="70" height="70"/>
